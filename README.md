@@ -7,6 +7,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnn112358" />
 </a>
 
+<br>
 
 ## Qiita
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nnn112358/posts.svg)](http://qiita.com/nnn112358)
