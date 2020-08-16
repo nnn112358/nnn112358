@@ -6,5 +6,10 @@
 </a>
 
 
-- [Qiita](https://qiita.com/nnn112358)
-
+# My Qiita posts
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/nnn112358/posts.svg)](http://qiita.com/nnn112358)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/nnn112358/contributions.svg)](http://qiita.com/nnn112358)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/nnn112358/followers.svg)](http://qiita.com/nnn112358)
+                
