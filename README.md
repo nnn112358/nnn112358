@@ -7,13 +7,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnn112358&theme=buefy " />
 </a>
 
-<br>
+<p align="center">
 
 # My Qiita
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nnn112358/posts.svg)](http://qiita.com/nnn112358)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nnn112358/contributions.svg)](http://qiita.com/nnn112358)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nnn112358/followers.svg)](http://qiita.com/nnn112358)
                 
-<p align="center">
 <a href="https://twitter.com/nnn112358"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
