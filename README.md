@@ -4,11 +4,11 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nnn112358/followers.svg)](http://qiita.com/nnn112358)
 <p>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nnn112358&count_private=true&show_icons=true&theme=buefy " />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nnn112358&count_private=true&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnn112358&theme=buefy " />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnn112358&theme=buefy" />
 </a>
 
 <p align="center">
